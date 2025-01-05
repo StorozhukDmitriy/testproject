@@ -17,6 +17,7 @@ function App() {
                 <p>Lorem ipsum dolor sit.</p>
                 <p>Lorem ipsum dolor sit.</p>
                 <p>developer/login branch commit 1</p>
+                <p>developer/login branch commit 1</p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
